@@ -11,6 +11,7 @@
 		445A76EC283A440000923E9B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445A76EB283A440000923E9B /* ContentView.swift */; };
 		445A76EE283A440300923E9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 445A76ED283A440300923E9B /* Assets.xcassets */; };
 		445A76F1283A440300923E9B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 445A76F0283A440300923E9B /* Preview Assets.xcassets */; };
+		447CEB4C283A5678006EF9D2 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447CEB4B283A5678006EF9D2 /* TextBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		445A76EB283A440000923E9B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		445A76ED283A440300923E9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		445A76F0283A440300923E9B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		447CEB4B283A5678006EF9D2 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				445A76EB283A440000923E9B /* ContentView.swift */,
 				445A76ED283A440300923E9B /* Assets.xcassets */,
 				445A76EF283A440300923E9B /* Preview Content */,
+				447CEB4B283A5678006EF9D2 /* TextBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				445A76EC283A440000923E9B /* ContentView.swift in Sources */,
+				447CEB4C283A5678006EF9D2 /* TextBootcamp.swift in Sources */,
 				445A76EA283A440000923E9B /* SwiftfulThinkingBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

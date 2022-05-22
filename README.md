@@ -1,2 +1,1 @@
-# swiftui_beginning
-# swiftui_beginning
+- 1. `Text` bootcamp
