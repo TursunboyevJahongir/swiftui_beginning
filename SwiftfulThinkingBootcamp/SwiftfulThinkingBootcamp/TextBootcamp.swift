@@ -9,7 +9,7 @@ import SwiftUI
 
 struct TextBootcamp: View {
     var body: some View {
-        Text("Hello Swift".capitalized)
+        Text("Hello World!".capitalized)
 //            .font(.body)
 //            .fontWeight(.heavy)
 //            .bold()
@@ -19,9 +19,9 @@ struct TextBootcamp: View {
 //            .font(.system(size: 24, weight:.semibold,design: .serif))
 //            .baselineOffset(-50.0)//qaroelar orasidagi ochiq
 //            .kerning(10)//harflarning orasidagi ochiq
-            .multilineTextAlignment(.center)
-            .foregroundColor(.green)
-            .frame(width: 200, height: 100, alignment: .center)
+            .multilineTextAlignment(.leading)
+            .foregroundColor(.red)
+            .frame(width: 200, height: 100, alignment: .leading )
             .minimumScaleFactor(0.1)
         
     }
