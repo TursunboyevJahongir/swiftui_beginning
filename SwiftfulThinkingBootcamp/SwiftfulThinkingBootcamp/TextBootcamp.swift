@@ -1,10 +1,3 @@
-//
-//  TextBootcamp.swift
-//  SwiftfulThinkingBootcamp
-//
-//  Created by Jahongir on 22/05/22.
-//
-
 import SwiftUI
 
 struct TextBootcamp: View {

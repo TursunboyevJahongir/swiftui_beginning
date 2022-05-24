@@ -1,10 +1,3 @@
-//
-//  ShapesBootcamp.swift
-//  SwiftfulThinkingBootcamp
-//
-//  Created by Jahongir on 23/05/22.
-//
-
 import SwiftUI
 
 struct ShapesBootcamp: View {
