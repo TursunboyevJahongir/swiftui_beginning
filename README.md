@@ -16,3 +16,9 @@
 
 #
 
+- [Linear, Radial, and Angular Gradients in SwiftUI | Bootcamp #5](https://www.youtube.com/watch?v=EPoxQHwVnj0&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=6) 
+<a href="https://github.com/TursunboyevJahongir/swiftui_beginning/blob/main/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/GradientsBootcamp.swift" target="_blank"><img src="https://raw.githubusercontent.com/TursunboyevJahongir/swiftui_beginning/183ca2be8a1c92de45c1b3134b63d4ec2a6319d2/code.svg" align="right">
+</a>
+
+#
+
