@@ -12,12 +12,12 @@ struct NavigationViewBootcamp: View {
         NavigationView{
             ScrollView{
                 
-                NavigationLink(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/,
+                NavigationLink("Hello, World!",
                                destination: MyOtherScreen())
                 
-                Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
                 Text("Hello, World!")
-                Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+                Text("Hello, World!")
+                Text("Hello, World!")
             }
             .navigationTitle("All Inboxes")
 //            .navigationBarTitleDisplayMode(.inline)
