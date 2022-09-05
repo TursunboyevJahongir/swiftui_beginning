@@ -46,3 +46,9 @@
 
 #
 
+- [How to use NavigationView and NavigationLink in SwiftUI | Bootcamp #30](https://www.youtube.com/watch?v=tXFwyFdkSas&ab_channel=LaravelDaily) 
+<a href="https://github.com/TursunboyevJahongir/swiftui_beginning/blob/main/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/NavigationViewBootcamp.swift" target="_blank"><img src="https://raw.githubusercontent.com/TursunboyevJahongir/swiftui_beginning/183ca2be8a1c92de45c1b3134b63d4ec2a6319d2/code.svg" align="right">
+</a>
+
+#
+
