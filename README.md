@@ -64,8 +64,26 @@
 
 #
 
-- [How to use `NavigationView` and `NavigationLink` in SwiftUI | Bootcamp #30](https://www.youtube.com/watch?v=tXFwyFdkSas&ab_channel=LaravelDaily) 
+- [How to use `ForEach` **loops** in SwiftUI | Bootcamp #14](https://www.youtube.com/watch?v=tXFwyFdkSas&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=31&ab_channel=SwiftfulThinking) 
 <a href="https://github.com/TursunboyevJahongir/swiftui_beginning/blob/main/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/NavigationViewBootcamp.swift" target="_blank"><img src="https://raw.githubusercontent.com/TursunboyevJahongir/swiftui_beginning/183ca2be8a1c92de45c1b3134b63d4ec2a6319d2/code.svg" align="right">
+</a>
+
+#
+
+- [Implementing a `ScrollView` in SwiftUI | Bootcamp #15](https://www.youtube.com/watch?v=9QhhpeYKjOs&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=16&ab_channel=SwiftfulThinking) 
+<a href="https://github.com/TursunboyevJahongir/swiftui_beginning/blob/main/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ScrolViewBootcamp.swift" target="_blank"><img src="https://raw.githubusercontent.com/TursunboyevJahongir/swiftui_beginning/183ca2be8a1c92de45c1b3134b63d4ec2a6319d2/code.svg" align="right">
+</a>
+
+#
+
+- [How to use `NavigationView` and `NavigationLink` in SwiftUI | Bootcamp #30](https://www.youtube.com/watch?v=tXFwyFdkSas&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=31&ab_channel=SwiftfulThinking) 
+<a href="https://github.com/TursunboyevJahongir/swiftui_beginning/blob/main/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/NavigationViewBootcamp.swift" target="_blank"><img src="https://raw.githubusercontent.com/TursunboyevJahongir/swiftui_beginning/183ca2be8a1c92de45c1b3134b63d4ec2a6319d2/code.svg" align="right">
+</a>
+
+#
+
+- [Create a tab bar with `TabView` and `PageTabViewStyle` in SwiftUI | Bootcamp #43](https://www.youtube.com/watch?v=5E_D9D8Z5nQ&ab_channel=SwiftfulThinking) 
+<a href="https://github.com/TursunboyevJahongir/swiftui_beginning/blob/main/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TabViewBootcamp.swift" target="_blank"><img src="https://raw.githubusercontent.com/TursunboyevJahongir/swiftui_beginning/183ca2be8a1c92de45c1b3134b63d4ec2a6319d2/code.svg" align="right">
 </a>
 
 #

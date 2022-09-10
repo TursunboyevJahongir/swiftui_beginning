@@ -20,8 +20,8 @@ struct NavigationViewBootcamp: View {
                 Text("Hello, World!")
             }
             .navigationTitle("All Inboxes")
-//            .navigationBarTitleDisplayMode(.inline)
-//            .navigationBarHidden(true)
+            //            .navigationBarTitleDisplayMode(.inline)
+            //            .navigationBarHidden(true)
         }
     }
 }
