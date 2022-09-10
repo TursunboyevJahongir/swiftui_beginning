@@ -26,6 +26,7 @@
 		44DA8A0728C83BBD003B6ED3 /* ScrolViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DA8A0628C83BBD003B6ED3 /* ScrolViewBootcamp.swift */; };
 		44DA8A0928C83F2B003B6ED3 /* ScrolViewUse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DA8A0828C83F2B003B6ED3 /* ScrolViewUse.swift */; };
 		44DA8A0B28C9CA8C003B6ED3 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DA8A0A28C9CA8C003B6ED3 /* TabViewBootcamp.swift */; };
+		44DA8A0D28CCBB00003B6ED3 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DA8A0C28CCBB00003B6ED3 /* SheetsBootcamp.swift */; };
 		44F4BA56286AD91100B277E3 /* TelegramIco.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F4BA55286AD91100B277E3 /* TelegramIco.swift */; };
 		44F4BA58286AD9A300B277E3 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F4BA57286AD9A300B277E3 /* StacksBootcamp.swift */; };
 		44F96D6128C1E2E900584EE3 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F96D6028C1E2E900584EE3 /* NavigationViewBootcamp.swift */; };
@@ -52,6 +53,7 @@
 		44DA8A0628C83BBD003B6ED3 /* ScrolViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrolViewBootcamp.swift; sourceTree = "<group>"; };
 		44DA8A0828C83F2B003B6ED3 /* ScrolViewUse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrolViewUse.swift; sourceTree = "<group>"; };
 		44DA8A0A28C9CA8C003B6ED3 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
+		44DA8A0C28CCBB00003B6ED3 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		44F4BA55286AD91100B277E3 /* TelegramIco.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelegramIco.swift; sourceTree = "<group>"; };
 		44F4BA57286AD9A300B277E3 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		44F96D6028C1E2E900584EE3 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 		445A76DD283A440000923E9B = {
 			isa = PBXGroup;
 			children = (
+				44DA8A0C28CCBB00003B6ED3 /* SheetsBootcamp.swift */,
 				445A76E8283A440000923E9B /* SwiftfulThinkingBootcamp */,
 				445A76E7283A440000923E9B /* Products */,
 			);
@@ -206,6 +209,7 @@
 				44DA8A0928C83F2B003B6ED3 /* ScrolViewUse.swift in Sources */,
 				447CEB4C283A5678006EF9D2 /* TextBootcamp.swift in Sources */,
 				445A76EA283A440000923E9B /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				44DA8A0D28CCBB00003B6ED3 /* SheetsBootcamp.swift in Sources */,
 				44DA8A0B28C9CA8C003B6ED3 /* TabViewBootcamp.swift in Sources */,
 				44F4BA58286AD9A300B277E3 /* StacksBootcamp.swift in Sources */,
 				44B4E88E284CD6B70027B5D0 /* ImageBootcamp.swift in Sources */,
