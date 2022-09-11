@@ -96,3 +96,9 @@
 
 #
 
+49) [How to create custom `Models`](https://www.youtube.com/watch?v=bQQlnGaYN14&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=50&ab_channel=SwiftfulThinking) 
+<a href="https://github.com/TursunboyevJahongir/swiftui_beginning/blob/main/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ModelBootcamp.swift" target="_blank"><img src="https://raw.githubusercontent.com/TursunboyevJahongir/swiftui_beginning/183ca2be8a1c92de45c1b3134b63d4ec2a6319d2/code.svg" align="right">
+</a>
+
+#
+

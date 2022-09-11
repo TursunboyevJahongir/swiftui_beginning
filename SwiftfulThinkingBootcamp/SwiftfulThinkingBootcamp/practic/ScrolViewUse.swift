@@ -9,7 +9,6 @@ import SwiftUI
 
 
 struct ScrolViewUse: View {
-    var images:[String] = ["home.out","home2","home3","home4","home5","home6","home7","home8","home.kitchen"]
     var body: some View {
         ScrollView {
             LazyVStack {

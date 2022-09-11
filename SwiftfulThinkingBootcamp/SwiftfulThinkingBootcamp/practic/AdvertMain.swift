@@ -1,22 +1,21 @@
 //
-//  ScrolViewUse.swift
+//  AdvertMain.swift
 //  SwiftfulThinkingBootcamp
 //
-//  Created by Jahongir on 07/09/22.
+//  Created by Jahongir on 11/09/22.
 //
-
 import SwiftUI
 
-
-struct ScrolViewUse: View {
-    var images:[String] = ["home.out","home2","home3","home4","home5","home6","home7","home8","home.kitchen"]
+struct AdvertMain: View {
     var body: some View {
         ScrollView {
             LazyVStack {
                 ForEach (0..<50){ index in
+                    let advert:AdvertModel = AdvertModel()
+                    
                     VStack(alignment: .leading, spacing: 0){
                         TabView(content: {
-                            ForEach(images.shuffled(), id: \.self) { img in
+                            ForEach(advert.images, id: \.self) { img in
                                 Image(img)
                                     .resizable()
                                     .aspectRatio(contentMode: .fit)
@@ -29,36 +28,40 @@ struct ScrolViewUse: View {
                         .frame(height: 230)
                         .tabViewStyle(PageTabViewStyle(indexDisplayMode: .never))
                         .indexViewStyle(.page(backgroundDisplayMode: .always))
+                        
                         Spacer()
                         
                         VStack(alignment: .leading,spacing: 0){
                             VStack(alignment: .leading,spacing: 0){
                                 HStack(alignment: .top,spacing: 0,content: {
                                     
-                                    Text("\(Int.random(in: 50000..<150000)) $")
+                                    Text("\(advert.price) $")
                                         .font(.system(size: 20, weight: .bold))
                                     Spacer()
-                                    favouriteButton()
+                                    favouriteButton(favourite: advert.isFavorite)
                                 })
-                                Text("\(Int.random(in: 1..<5)) комн,\(Int.random(in: 25..<40)).\(Int.random(in: 5..<40)) m²,этаж \(Int.random(in: 1..<7))/\(Int.random(in: 10..<15))")
+                                Text("\(advert.room) комн,\(advert.size),этаж \(advert.floor)")
                                     .font(.title3)
                                 VStack(alignment:.leading,spacing: 0){
                                     HStack(spacing: 2) {
-                                        Text("M").bold().foregroundColor(Color.red)
-                                            .font(.custom(
-                                                "Hoefler Text",
-                                                fixedSize: 10))
+                                        if (advert.nierMetro != nil) {
+                                            Text("M").bold().foregroundColor(Color.red)
+                                                .font(.custom(
+                                                    "Hoefler Text",
+                                                    fixedSize: 18))
+                                            
+                                            Text("\(advert.nierMetro!), \(advert.toMetro!)")
+                                                .font(.custom(
+                                                    "AppleSDGothicNeo-Thin",
+                                                    fixedSize: 15))
+                                        }
                                         
-                                        Text("Tinchlik, 10 daqiqa")
-                                            .font(.custom(
-                                                "AppleSDGothicNeo-Thin",
-                                                fixedSize: 10))
                                     }
                                     
-                                    Text("Toshkent,Farobiy ko'chasi, 19")
+                                    Text("\(advert.address.address)")
                                         .font(.custom(
                                             "AppleSDGothicNeo-Thin",
-                                            fixedSize: 10))
+                                            fixedSize: 15))
                                 }
                                 
                                 HStack(alignment: .top, spacing: 1,content: {
@@ -94,18 +97,14 @@ struct ScrolViewUse: View {
                                             .font(.system(size: 30, weight: .bold))
                                             .padding(.bottom)
                                     }
-                                    
-                                    
                                     .frame(width: 40, height: 50)
-                                    .background(Color.black)
+                                    .background(Color.gray)
                                     .cornerRadius(10)
                                     
                                 })
                             }.padding(.leading)
                                 .padding(.trailing)
                         }
-                        
-                        
                     }
                 }
             }
@@ -121,15 +120,17 @@ struct favouriteButton: View {
         } label:{
             Image(systemName: favourite ? "bookmark.fill" : "bookmark")
                 .resizable()
-                .frame(width: 13, height: 20)
+                .frame(width: 15, height: 23)
+                .accentColor(.yellow)
                 .padding(.trailing)
+                
         }
     }
 }
 
-struct ScrolViewUse_Previews: PreviewProvider {
+struct AdvertMain_Previews: PreviewProvider {
     static var previews: some View {
-        ScrolViewUse()
+        AdvertMain()
             .previewInterfaceOrientation(.portrait)
     }
 }
