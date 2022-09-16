@@ -103,3 +103,9 @@
 
 ###
 
+50) [How to use `@ObservableObject` and `@StateObject`](https://www.youtube.com/watch?v=-yjKAb0Pj60&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1Qp)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ViewModel.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+

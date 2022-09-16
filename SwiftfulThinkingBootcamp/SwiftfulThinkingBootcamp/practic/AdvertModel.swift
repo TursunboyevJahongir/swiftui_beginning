@@ -12,6 +12,9 @@ private var addressArray: [String] = ["Тафаккур Улица​","Хозя
 
 struct AdvertModel:Identifiable {
     let id:String = UUID().uuidString
+    let firstName:String = "Jahongir"
+    let lastName:String = "Tursunboyev"
+    let fullName:String = "Tursunboyev Jahongir"
     let images: [String] = imagesArray.shuffled()
     let price: Int = Int.random(in: 50000..<150000)
     let room: Int = Int.random(in: 1..<5)
