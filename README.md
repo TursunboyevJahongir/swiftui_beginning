@@ -104,7 +104,13 @@
 ###
 
 50) [How to use `@ObservableObject` and `@StateObject`](https://www.youtube.com/watch?v=-yjKAb0Pj60&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1Qp)
-    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ViewModel.swift" target="_blank"><img src="code.svg" align="right">
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ViewModelBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+51) [How to use `@EnvironmentObject`]https://www.youtube.com/watch?v=VWZ-h_N1wDk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=52)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/EnvironmentObjectBootcamp.swift" target="_blank"><img src="code.svg" align="right">
     </a>
 
 ###

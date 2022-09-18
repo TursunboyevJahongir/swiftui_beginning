@@ -10,6 +10,8 @@
 		442977352861C562006E6776 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442977342861C562006E6776 /* BackgroundAndOverlayBootcamp.swift */; };
 		4455412E285EDED40004A158 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4455412D285EDED40004A158 /* FrameBootcamp.swift */; };
 		4458A1B628D244B7006D09D6 /* TextTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1B528D244B7006D09D6 /* TextTest.swift */; };
+		4458A1B828D496F8006D09D6 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1B728D496F8006D09D6 /* EnvironmentObjectBootcamp.swift */; };
+		4458A1BE28D6D2E2006D09D6 /* ViewModelBootacmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1BD28D6D2E2006D09D6 /* ViewModelBootacmp.swift */; };
 		445A76EA283A440000923E9B /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445A76E9283A440000923E9B /* SwiftfulThinkingBootcampApp.swift */; };
 		445A76EC283A440000923E9B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445A76EB283A440000923E9B /* ContentView.swift */; };
 		445A76EE283A440300923E9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 445A76ED283A440300923E9B /* Assets.xcassets */; };
@@ -31,7 +33,6 @@
 		44DA8A1F28CE01A5003B6ED3 /* AdvertMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DA8A1E28CE01A5003B6ED3 /* AdvertMain.swift */; };
 		44DCF0DB28CE1C2C00710E27 /* AddressModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DCF0DA28CE1C2C00710E27 /* AddressModel.swift */; };
 		44DCF0DD28CE1C3C00710E27 /* AdvertModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DCF0DC28CE1C3C00710E27 /* AdvertModel.swift */; };
-		44DCF0DF28CEF6CE00710E27 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DCF0DE28CEF6CE00710E27 /* ViewModel.swift */; };
 		44DCF0E128CF112300710E27 /* LoadAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DCF0E028CF112300710E27 /* LoadAnimation.swift */; };
 		44DCF0E328CF183300710E27 /* AdvertViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DCF0E228CF183300710E27 /* AdvertViewModel.swift */; };
 		44F4BA56286AD91100B277E3 /* TelegramIco.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F4BA55286AD91100B277E3 /* TelegramIco.swift */; };
@@ -43,6 +44,8 @@
 		442977342861C562006E6776 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		4455412D285EDED40004A158 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		4458A1B528D244B7006D09D6 /* TextTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextTest.swift; sourceTree = "<group>"; };
+		4458A1B728D496F8006D09D6 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
+		4458A1BD28D6D2E2006D09D6 /* ViewModelBootacmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootacmp.swift; sourceTree = "<group>"; };
 		445A76E6283A440000923E9B /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		445A76E9283A440000923E9B /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		445A76EB283A440000923E9B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,7 +68,6 @@
 		44DA8A1E28CE01A5003B6ED3 /* AdvertMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvertMain.swift; sourceTree = "<group>"; };
 		44DCF0DA28CE1C2C00710E27 /* AddressModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressModel.swift; sourceTree = "<group>"; };
 		44DCF0DC28CE1C3C00710E27 /* AdvertModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvertModel.swift; sourceTree = "<group>"; };
-		44DCF0DE28CEF6CE00710E27 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		44DCF0E028CF112300710E27 /* LoadAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadAnimation.swift; sourceTree = "<group>"; };
 		44DCF0E228CF183300710E27 /* AdvertViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvertViewModel.swift; sourceTree = "<group>"; };
 		44F4BA55286AD91100B277E3 /* TelegramIco.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelegramIco.swift; sourceTree = "<group>"; };
@@ -110,7 +112,8 @@
 				445A76EF283A440300923E9B /* Preview Content */,
 				447CEB4B283A5678006EF9D2 /* TextBootcamp.swift */,
 				44DA8A0C28CCBB00003B6ED3 /* SheetsBootcamp.swift */,
-				44DCF0DE28CEF6CE00710E27 /* ViewModel.swift */,
+				4458A1BD28D6D2E2006D09D6 /* ViewModelBootacmp.swift */,
+				4458A1B728D496F8006D09D6 /* EnvironmentObjectBootcamp.swift */,
 				44B4E88D284CD6B70027B5D0 /* ImageBootcamp.swift */,
 				447CEB4D283BAE09006EF9D2 /* ShapesBootcamp.swift */,
 				44B4E88B28412E9E0027B5D0 /* IconsBootcamp.swift */,
@@ -225,10 +228,11 @@
 			files = (
 				44F4BA56286AD91100B277E3 /* TelegramIco.swift in Sources */,
 				44DA8A0728C83BBD003B6ED3 /* ScrolViewBootcamp.swift in Sources */,
+				4458A1B828D496F8006D09D6 /* EnvironmentObjectBootcamp.swift in Sources */,
+				4458A1BE28D6D2E2006D09D6 /* ViewModelBootacmp.swift in Sources */,
 				44B4E88A28410D570027B5D0 /* GradientsBootcamp.swift in Sources */,
 				44F96D6128C1E2E900584EE3 /* NavigationViewBootcamp.swift in Sources */,
 				44DA8A0328C7CF32003B6ED3 /* InitalizerBootcamp.swift in Sources */,
-				44DCF0DF28CEF6CE00710E27 /* ViewModel.swift in Sources */,
 				44DA8A1F28CE01A5003B6ED3 /* AdvertMain.swift in Sources */,
 				442977352861C562006E6776 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				447CEB50283BBD2B006EF9D2 /* ColorsBootcamp.swift in Sources */,
