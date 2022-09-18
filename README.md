@@ -85,6 +85,12 @@
 
 ###
 
+29) [Using `Sheets`, `Transitions`, and `Offsets` to create a **popover**](https://www.youtube.com/watch?v=5QDvfNQF304&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=30)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/PopoverBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
 30) [How to use `NavigationView` and `NavigationLink`](https://www.youtube.com/watch?v=tXFwyFdkSas&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=31&ab_channel=SwiftfulThinking)
     <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/NavigationViewBootcamp.swift" target="_blank"><img src="code.svg" align="right">
     </a>
@@ -109,7 +115,7 @@
 
 ###
 
-51) [How to use `@EnvironmentObject`]https://www.youtube.com/watch?v=VWZ-h_N1wDk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=52)
+51) [How to use `@EnvironmentObject`](https://www.youtube.com/watch?v=VWZ-h_N1wDk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=52)
     <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/EnvironmentObjectBootcamp.swift" target="_blank"><img src="code.svg" align="right">
     </a>
 
