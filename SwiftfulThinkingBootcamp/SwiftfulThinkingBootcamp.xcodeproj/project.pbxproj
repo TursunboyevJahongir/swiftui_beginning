@@ -7,12 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4423172528DAD21800369830 /* CourseCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4423172428DAD21800369830 /* CourseCard.swift */; };
 		442977352861C562006E6776 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442977342861C562006E6776 /* BackgroundAndOverlayBootcamp.swift */; };
 		4455412E285EDED40004A158 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4455412D285EDED40004A158 /* FrameBootcamp.swift */; };
 		4458A1B628D244B7006D09D6 /* TextTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1B528D244B7006D09D6 /* TextTest.swift */; };
 		4458A1B828D496F8006D09D6 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1B728D496F8006D09D6 /* EnvironmentObjectBootcamp.swift */; };
 		4458A1BE28D6D2E2006D09D6 /* ViewModelBootacmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1BD28D6D2E2006D09D6 /* ViewModelBootacmp.swift */; };
 		4458A1C028D6D7A1006D09D6 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1BF28D6D7A1006D09D6 /* PopoverBootcamp.swift */; };
+		4458A1C228D6F461006D09D6 /* ShowAdvertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1C128D6F461006D09D6 /* ShowAdvertView.swift */; };
+		4458A1C628D99F42006D09D6 /* favouriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1C528D99F42006D09D6 /* favouriteButton.swift */; };
+		4458A1CC28D9B162006D09D6 /* threeDotsButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1CB28D9B162006D09D6 /* threeDotsButton.swift */; };
 		445A76EA283A440000923E9B /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445A76E9283A440000923E9B /* SwiftfulThinkingBootcampApp.swift */; };
 		445A76EC283A440000923E9B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445A76EB283A440000923E9B /* ContentView.swift */; };
 		445A76EE283A440300923E9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 445A76ED283A440300923E9B /* Assets.xcassets */; };
@@ -42,12 +46,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4423172428DAD21800369830 /* CourseCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseCard.swift; sourceTree = "<group>"; };
 		442977342861C562006E6776 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		4455412D285EDED40004A158 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		4458A1B528D244B7006D09D6 /* TextTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextTest.swift; sourceTree = "<group>"; };
 		4458A1B728D496F8006D09D6 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		4458A1BD28D6D2E2006D09D6 /* ViewModelBootacmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootacmp.swift; sourceTree = "<group>"; };
 		4458A1BF28D6D7A1006D09D6 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
+		4458A1C128D6F461006D09D6 /* ShowAdvertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowAdvertView.swift; sourceTree = "<group>"; };
+		4458A1C528D99F42006D09D6 /* favouriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favouriteButton.swift; sourceTree = "<group>"; };
+		4458A1CB28D9B162006D09D6 /* threeDotsButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = threeDotsButton.swift; sourceTree = "<group>"; };
 		445A76E6283A440000923E9B /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		445A76E9283A440000923E9B /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		445A76EB283A440000923E9B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -150,11 +158,15 @@
 			children = (
 				44F4BA55286AD91100B277E3 /* TelegramIco.swift */,
 				44DA8A1E28CE01A5003B6ED3 /* AdvertMain.swift */,
+				4458A1C128D6F461006D09D6 /* ShowAdvertView.swift */,
+				4423172428DAD21800369830 /* CourseCard.swift */,
 				44DCF0DA28CE1C2C00710E27 /* AddressModel.swift */,
 				44DCF0DC28CE1C3C00710E27 /* AdvertModel.swift */,
 				44DCF0E028CF112300710E27 /* LoadAnimation.swift */,
 				44DCF0E228CF183300710E27 /* AdvertViewModel.swift */,
 				4458A1B528D244B7006D09D6 /* TextTest.swift */,
+				4458A1C528D99F42006D09D6 /* favouriteButton.swift */,
+				4458A1CB28D9B162006D09D6 /* threeDotsButton.swift */,
 			);
 			path = practic;
 			sourceTree = "<group>";
@@ -230,7 +242,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				44F4BA56286AD91100B277E3 /* TelegramIco.swift in Sources */,
+				4458A1C628D99F42006D09D6 /* favouriteButton.swift in Sources */,
 				44DA8A0728C83BBD003B6ED3 /* ScrolViewBootcamp.swift in Sources */,
+				4458A1CC28D9B162006D09D6 /* threeDotsButton.swift in Sources */,
 				4458A1B828D496F8006D09D6 /* EnvironmentObjectBootcamp.swift in Sources */,
 				4458A1BE28D6D2E2006D09D6 /* ViewModelBootacmp.swift in Sources */,
 				44B4E88A28410D570027B5D0 /* GradientsBootcamp.swift in Sources */,
@@ -238,6 +252,7 @@
 				44DA8A0328C7CF32003B6ED3 /* InitalizerBootcamp.swift in Sources */,
 				44DA8A1F28CE01A5003B6ED3 /* AdvertMain.swift in Sources */,
 				442977352861C562006E6776 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				4458A1C228D6F461006D09D6 /* ShowAdvertView.swift in Sources */,
 				447CEB50283BBD2B006EF9D2 /* ColorsBootcamp.swift in Sources */,
 				4455412E285EDED40004A158 /* FrameBootcamp.swift in Sources */,
 				44DA8A0128C7ADC8003B6ED3 /* SpacerBootcamp.swift in Sources */,
@@ -250,6 +265,7 @@
 				44DA8A0D28CCBB00003B6ED3 /* SheetsBootcamp.swift in Sources */,
 				44DA8A0B28C9CA8C003B6ED3 /* TabViewBootcamp.swift in Sources */,
 				44DCF0E328CF183300710E27 /* AdvertViewModel.swift in Sources */,
+				4423172528DAD21800369830 /* CourseCard.swift in Sources */,
 				44DCF0DB28CE1C2C00710E27 /* AddressModel.swift in Sources */,
 				4458A1C028D6D7A1006D09D6 /* PopoverBootcamp.swift in Sources */,
 				44F4BA58286AD9A300B277E3 /* StacksBootcamp.swift in Sources */,

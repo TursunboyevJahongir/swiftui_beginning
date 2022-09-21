@@ -18,7 +18,7 @@ class AdvertViewModel: ObservableObject {
     
     func getAdverts(){
         isLoading = true
-        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
             for _ in 0 ..< 50{
                 self.advertsList.append(AdvertModel())
             }
