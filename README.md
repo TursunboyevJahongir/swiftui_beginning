@@ -79,6 +79,12 @@
 
 ###
 
+16) [`LazyVGrid`, `LazyHGrid`, and GridItems](https://www.youtube.com/watch?v=vHvb7LH8VuE&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=17)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/GridBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
 28) [Display pop-up `Sheet`s and `FullScreenCover`s](https://www.youtube.com/watch?v=ddr3E0l4gIQ&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=29&ab_channel=SwiftfulThinking)
     <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SheetsBootcamp.swift" target="_blank"><img src="code.svg" align="right">
     </a>

@@ -29,9 +29,11 @@ struct AdvertMain: View {
                                                 .scaledToFill()
                                                 .frame(width: 385,height: 230)
                                                 .cornerRadius(10)
-                                                .tag(index)
+                                                .tag(index+1)
                                         }
                                         .buttonStyle(.plain)
+                                        ///todo index+1 tog'rimi
+                                ///todo foreachni ichida NavigationLink ishlatish xatomasmi ?
                                         
                                     }
                                 })

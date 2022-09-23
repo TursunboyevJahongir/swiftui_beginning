@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4423172528DAD21800369830 /* CourseCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4423172428DAD21800369830 /* CourseCard.swift */; };
+		4423172B28DD908900369830 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4423172A28DD908900369830 /* GridBootcamp.swift */; };
 		442977352861C562006E6776 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442977342861C562006E6776 /* BackgroundAndOverlayBootcamp.swift */; };
 		4455412E285EDED40004A158 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4455412D285EDED40004A158 /* FrameBootcamp.swift */; };
 		4458A1B628D244B7006D09D6 /* TextTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4458A1B528D244B7006D09D6 /* TextTest.swift */; };
@@ -47,6 +48,7 @@
 
 /* Begin PBXFileReference section */
 		4423172428DAD21800369830 /* CourseCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseCard.swift; sourceTree = "<group>"; };
+		4423172A28DD908900369830 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		442977342861C562006E6776 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		4455412D285EDED40004A158 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		4458A1B528D244B7006D09D6 /* TextTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextTest.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 				44F4BA55286AD91100B277E3 /* TelegramIco.swift */,
 				44DA8A1E28CE01A5003B6ED3 /* AdvertMain.swift */,
 				4458A1C128D6F461006D09D6 /* ShowAdvertView.swift */,
+				4423172A28DD908900369830 /* GridBootcamp.swift */,
 				4423172428DAD21800369830 /* CourseCard.swift */,
 				44DCF0DA28CE1C2C00710E27 /* AddressModel.swift */,
 				44DCF0DC28CE1C3C00710E27 /* AdvertModel.swift */,
@@ -241,6 +244,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4423172B28DD908900369830 /* GridBootcamp.swift in Sources */,
 				44F4BA56286AD91100B277E3 /* TelegramIco.swift in Sources */,
 				4458A1C628D99F42006D09D6 /* favouriteButton.swift in Sources */,
 				44DA8A0728C83BBD003B6ED3 /* ScrolViewBootcamp.swift in Sources */,
