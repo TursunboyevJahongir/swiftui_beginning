@@ -1,4 +1,4 @@
-[![SwiftUI Bootcamp (Beginner Level)](https://img.youtube.com/vi/-Yp0LS61Nxk/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO))
+[![SwiftUI Bootcamp (Beginner Level)](https://img.youtube.com/vi/-Yp0LS61Nxk/0.jpg)]([https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO))
 
 <details><summary>Nick Sarno Links</summary>
    
