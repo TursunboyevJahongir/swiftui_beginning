@@ -1,15 +1,17 @@
-[![SwiftUI Bootcamp (Beginner Level)](https://img.youtube.com/vi/-Yp0LS61Nxk/0.jpg)]([https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO))
+<a href="https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO" target="_blank"><img src="https://img.youtube.com/vi/-Yp0LS61Nxk/0.jpg" 
+alt="SwiftUI Bootcamp (Beginner Level)" align="right" width="300" border="10" /></a>
 
-<details><summary>Nick Sarno Links</summary>
+<summary>Nick Sarno Links</summary>
    
 [Buy me a coffee :)](https://www.buymeacoffee.com/nicksarno)
    
 [Discord](https://discord.com/invite/vhKKyYTGDb)
    
 [More about me](https://www.nicksarno.com/)
-   </details>
 
-# SwiftUI Bootcamp (Beginner Level)
+<br>
+
+# [ SwiftUI Bootcamp (Beginner Level)](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO)
 
 2) [Adding `Text`](https://www.youtube.com/watch?v=RKfkG01x79w&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=3)
    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TextBootcamp.swift" target="_blank"><img src="code.svg" align="right">
