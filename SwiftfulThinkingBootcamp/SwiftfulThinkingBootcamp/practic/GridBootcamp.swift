@@ -26,7 +26,7 @@ struct GridBootcamp: View {
                 columns: columns,
                 alignment: .center,
                 spacing: 6,
-                pinnedViews: [.sectionFooters],
+                pinnedViews: [.sectionHeaders],
                 content: {
                     Section(header:
                                 Text("Section 1")

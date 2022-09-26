@@ -1,4 +1,15 @@
-# SwiftUI Bootcamp
+[![SwiftUI Bootcamp (Beginner Level)](https://img.youtube.com/vi/-Yp0LS61Nxk/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO))
+
+<details><summary>Nick Sarno Links</summary>
+   
+[Buy me a coffee :)](https://www.buymeacoffee.com/nicksarno)
+   
+[Discord](https://discord.com/invite/vhKKyYTGDb)
+   
+[More about me](https://www.nicksarno.com/)
+   </details>
+
+# SwiftUI Bootcamp (Beginner Level)
 
 2) [Adding `Text`](https://www.youtube.com/watch?v=RKfkG01x79w&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=3)
    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TextBootcamp.swift" target="_blank"><img src="code.svg" align="right">
@@ -81,6 +92,19 @@
 
 16) [`LazyVGrid`, `LazyHGrid`, and GridItems](https://www.youtube.com/watch?v=vHvb7LH8VuE&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=17)
     <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/GridBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+17) [How to use and `ignore` the `Safe Area`](https://www.youtube.com/watch?v=_0NDKxvfg40&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=18)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SafeAreaBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+
+23) [How to use `if-else` and `conditional` statements](https://www.youtube.com/watch?v=W8sGT16WAkQ&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=24)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ConditionalBootcamp.swift" target="_blank"><img src="code.svg" align="right">
     </a>
 
 ###
