@@ -153,3 +153,32 @@ alt="SwiftUI Bootcamp (Beginner Level)" align="right" width="300" border="10" />
 
 ###
 
+# [SwiftUI Todo List (Beginner Level)](https://www.youtube.com/playlist?list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i)
+
+<a href="https://www.youtube.com/playlist?list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i" target="_blank"><img src="https://img.youtube.com/vi/wEf1YS4vyW8/0.jpg" 
+alt="SwiftUI Bootcamp (Beginner Level)" width="400" align="right" border="10" /></a>
+
+
+0) [Build Todo List in SwiftUI with MVVM architecture](https://www.youtube.com/watch?v=wEf1YS4vyW8&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=1)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ModelBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+1) [Create a List of Todo items](https://www.youtube.com/watch?v=EPdivac0kwE&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=2)
+###
+
+3) [Add a ViewModel with @EnvironmentObject](https://www.youtube.com/watch?v=nwpmWu1SP1k&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=4)
+###
+
+4) [Save and persist data with UserDefaults](https://www.youtube.com/watch?v=1QOLiELlpGk&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=5)
+###
+
+5) [User Experience and Animations](https://www.youtube.com/watch?v=KamCx-Hfdxk&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=6)
+###
+
+6) [Adapt SwiftUI app for iPad, Landscape, and Dark Mode](https://www.youtube.com/watch?v=D3T2PQALJOs&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=7)
+###
+
+7) [Adding an App Icon and Launch Screen to SwiftUI](https://www.youtube.com/watch?v=3CasiUiJPVo&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=8)
+###
