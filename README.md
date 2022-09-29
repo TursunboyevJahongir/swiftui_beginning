@@ -160,7 +160,7 @@ alt="SwiftUI Bootcamp (Beginner Level)" width="400" align="right" border="10" />
 
 
 0) [Build Todo List in SwiftUI with MVVM architecture](https://www.youtube.com/watch?v=wEf1YS4vyW8&list=PLwvDm4VfkdpheGqemblOIA7v3oq0MS30i&index=1)
-    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ModelBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TodoList" target="_blank"><img src="code.svg" align="right">
     </a>
 
 ###
