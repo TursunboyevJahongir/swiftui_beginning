@@ -7,11 +7,27 @@
 
 import SwiftUI
 
+/*
+
+ MVVM Architecture
+ 
+ Model - data point
+ View - UI
+ ViewMpdel - manages Models for View
+
+ */
+
 @main
 struct SwiftfulThinkingBootcampApp: App {
+    
+    @StateObject var listModelView: ListViewModel = ListViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView{
+                ListView()
+            }
+            .environmentObject(listModelView)
         }
     }
 }
