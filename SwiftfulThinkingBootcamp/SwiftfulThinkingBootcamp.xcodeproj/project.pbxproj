@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44058CAE28E68F8E003C6635 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44058CAD28E68F8E003C6635 /* IfLetGuardBootcamp.swift */; };
+		44058CB028E6F680003C6635 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44058CAF28E6F680003C6635 /* TapGestureBootcamp.swift */; };
+		44058CB228E70EA6003C6635 /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44058CB128E70EA6003C6635 /* DarkModeBootcamp.swift */; };
+		44058CB428E86AFE003C6635 /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44058CB328E86AFE003C6635 /* DocumentationBootcamp.swift */; };
+		44058CB628E8C017003C6635 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44058CB528E8C017003C6635 /* OnAppearBootcamp.swift */; };
 		4423172528DAD21800369830 /* CourseCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4423172428DAD21800369830 /* CourseCard.swift */; };
 		4423172B28DD908900369830 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4423172A28DD908900369830 /* GridBootcamp.swift */; };
 		4423172D28DF57C100369830 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4423172C28DF57C100369830 /* SafeAreaBootcamp.swift */; };
@@ -54,6 +59,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44058CAD28E68F8E003C6635 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
+		44058CAF28E6F680003C6635 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
+		44058CB128E70EA6003C6635 /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
+		44058CB328E86AFE003C6635 /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
+		44058CB528E8C017003C6635 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 		4423172428DAD21800369830 /* CourseCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseCard.swift; sourceTree = "<group>"; };
 		4423172A28DD908900369830 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		4423172C28DF57C100369830 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
@@ -140,6 +150,8 @@
 				447CEB4B283A5678006EF9D2 /* TextBootcamp.swift */,
 				44DA8A0C28CCBB00003B6ED3 /* SheetsBootcamp.swift */,
 				4458A1BD28D6D2E2006D09D6 /* ViewModelBootacmp.swift */,
+				44058CB328E86AFE003C6635 /* DocumentationBootcamp.swift */,
+				44058CB528E8C017003C6635 /* OnAppearBootcamp.swift */,
 				4458A1B728D496F8006D09D6 /* EnvironmentObjectBootcamp.swift */,
 				4458A1BF28D6D7A1006D09D6 /* PopoverBootcamp.swift */,
 				44B4E88D284CD6B70027B5D0 /* ImageBootcamp.swift */,
@@ -151,6 +163,7 @@
 				4455412D285EDED40004A158 /* FrameBootcamp.swift */,
 				44F96D6028C1E2E900584EE3 /* NavigationViewBootcamp.swift */,
 				44DA8A0A28C9CA8C003B6ED3 /* TabViewBootcamp.swift */,
+				44058CB128E70EA6003C6635 /* DarkModeBootcamp.swift */,
 				44DA8A0028C7ADC8003B6ED3 /* SpacerBootcamp.swift */,
 				44DA8A0228C7CF32003B6ED3 /* InitalizerBootcamp.swift */,
 				44DA8A0428C837CA003B6ED3 /* ForEachBootcamp.swift */,
@@ -203,6 +216,8 @@
 				449150BA28E4610100D9DB97 /* AddView.swift */,
 				449150BB28E4610100D9DB97 /* ListView.swift */,
 				449150BC28E4610100D9DB97 /* ListRowView.swift */,
+				44058CAD28E68F8E003C6635 /* IfLetGuardBootcamp.swift */,
+				44058CAF28E6F680003C6635 /* TapGestureBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -326,16 +341,21 @@
 				44DA8A0B28C9CA8C003B6ED3 /* TabViewBootcamp.swift in Sources */,
 				44DCF0E328CF183300710E27 /* AdvertViewModel.swift in Sources */,
 				4423172528DAD21800369830 /* CourseCard.swift in Sources */,
+				44058CB628E8C017003C6635 /* OnAppearBootcamp.swift in Sources */,
+				44058CB428E86AFE003C6635 /* DocumentationBootcamp.swift in Sources */,
 				449150C428E4610100D9DB97 /* ListRowView.swift in Sources */,
 				44A7B1D628E191D90008B5BF /* ConditionalBootcamp.swift in Sources */,
+				44058CB228E70EA6003C6635 /* DarkModeBootcamp.swift in Sources */,
 				4423172D28DF57C100369830 /* SafeAreaBootcamp.swift in Sources */,
 				44DCF0DB28CE1C2C00710E27 /* AddressModel.swift in Sources */,
 				4458A1C028D6D7A1006D09D6 /* PopoverBootcamp.swift in Sources */,
 				44F4BA58286AD9A300B277E3 /* StacksBootcamp.swift in Sources */,
 				44B4E88E284CD6B70027B5D0 /* ImageBootcamp.swift in Sources */,
 				44DA89FF28C62078003B6ED3 /* PaddeingAndSpacerBootcamp .swift in Sources */,
+				44058CAE28E68F8E003C6635 /* IfLetGuardBootcamp.swift in Sources */,
 				449150C328E4610100D9DB97 /* ListView.swift in Sources */,
 				44DA8A0F28CDA6B9003B6ED3 /* ModelBootcamp.swift in Sources */,
+				44058CB028E6F680003C6635 /* TapGestureBootcamp.swift in Sources */,
 				44B4E88C28412E9E0027B5D0 /* IconsBootcamp.swift in Sources */,
 				44DCF0E128CF112300710E27 /* LoadAnimation.swift in Sources */,
 				44DCF0DD28CE1C3C00710E27 /* AdvertModel.swift in Sources */,

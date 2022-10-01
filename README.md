@@ -79,8 +79,7 @@ alt="SwiftUI Bootcamp (Beginner Level)" align="right" width="300" border="10" />
 
 ###
 
-14) [How to use `ForEach` **
-    loops**](https://www.youtube.com/watch?v=tXFwyFdkSas&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=31&ab_channel=SwiftfulThinking)
+14) [How to use `ForEach` **loops**](https://www.youtube.com/watch?v=tXFwyFdkSas&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=31&ab_channel=SwiftfulThinking)
     <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/NavigationViewBootcamp.swift" target="_blank"><img src="code.svg" align="right">
     </a>
 
@@ -131,6 +130,36 @@ alt="SwiftUI Bootcamp (Beginner Level)" align="right" width="300" border="10" />
 
 43) [Create a tab bar with `TabView` and `PageTabViewStyle`](https://www.youtube.com/watch?v=5E_D9D8Z5nQ&ab_channel=SwiftfulThinking)
     <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TabViewBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+44) [Adapt for Dark Mode](https://www.youtube.com/watch?v=DB5uNhIea-o&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=45)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/DarkModeBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+45) [Adding markups and documentation](https://www.youtube.com/watch?v=O8_meC7hIwI&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=46)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/DocumentationBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+46) [How to use `onAppear` and `onDisappear`](https://www.youtube.com/watch?v=QAP4DbfoKvk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=47)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnAppearBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+47) [How to safely unwrap optionals in Swift with `if-let` and `guard` statements](https://www.youtube.com/watch?v=wmQIl0O9HBY&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=48)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/IfLetGuardBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    </a>
+
+###
+
+48) [How to add a `Tap Gesture`](https://www.youtube.com/watch?v=joUjsvWn2Eg&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=49)
+    <a href="SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TapGestureBootcamp.swift" target="_blank"><img src="code.svg" align="right">
     </a>
 
 ###
